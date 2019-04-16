@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Coucou poussin d'amour !
+            First deployment through CircleCI on Heroku!
           </p>
           <a
             className="App-link"
